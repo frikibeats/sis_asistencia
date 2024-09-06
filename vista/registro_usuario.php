@@ -7,9 +7,9 @@ if (empty($_SESSION['nombre']) and empty($_SESSION['apellido'])) {
 ?>
 
 <style>
-    ul li:nth-child(2) .activo {
-        background: rgb(11, 150, 214) !important;
-    }
+ul li:nth-child(2) .activo {
+    background: rgb(11, 150, 214) !important;
+}
 </style>
 
 <!-- primero se carga el topbar -->
@@ -42,7 +42,7 @@ if (empty($_SESSION['nombre']) and empty($_SESSION['apellido'])) {
                 <input type="text" placeholder="Contraseña" class="input input__text" name="txtpassword">
             </div>
             <div class="text-center p-2">
-                <a href="" class="btn btn-secundary btn-rounded">Atras</a>
+                <a href="usuario.php" class="btn btn-secundary btn-rounded">Atras</a>
                 <button type="submit" value="ok" name="btnregistrar"
                     class="btn btn-primary btn-rounded">Registrar</button>
             </div>

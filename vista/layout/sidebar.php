@@ -10,9 +10,14 @@
         </li>
         <li class="red">
             <a href="usuario.php" class="activo">
-                <img src="../public/img-inicio/programar.png" class="img-inicio" alt="">
-                <!-- <i class="fas fa-house-user"></i> -->
+                <img src="../public/img-inicio/ES.png" class="img-inicio" alt="">
                 <span class="lbl">Usuarios</span>
+            </a>
+        </li>
+        <li class="red">
+            <a href="empleado.php" class="activo">
+                <img src="../public/img-inicio/team.png" class="img-inicio" alt="">
+                <span class="lbl">Colaboradores</span>
             </a>
         </li>
 
