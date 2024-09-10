@@ -5,7 +5,14 @@
             <a href="inicio.php" class="activo">
                 <img src="../public/img-inicio/programar.png" class="img-inicio" alt="">
                 <!-- <i class="fas fa-house-user"></i> -->
-                <span class="lbl">Asistencias</span>
+                <span class="lbl">Asistencia Diaria</span>
+            </a>
+        </li>
+        <li class="red">
+            <a href="lista_visitantes.php" class="activo">
+                <img src="../public/img-inicio/programar.png" class="img-inicio" alt="">
+                <!-- <i class="fas fa-house-user"></i> -->
+                <span class="lbl">Asistencia Eventual</span>
             </a>
         </li>
         <li class="red">

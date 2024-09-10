@@ -22,6 +22,10 @@
             <div class="botones">
                 <a class="entrada" href="">ENTRADA</a>
                 <a class="salida" href="">SALIDA</a>
+
+                <button type="submit" name="btnentrada" value="ok">ENTRADA</button>
+                <button type="submit" name="btnsalida" value="ok">SALIDA</button>
+
             </div>
         </form>
     </div>
